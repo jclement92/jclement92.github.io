@@ -18,7 +18,7 @@ class App extends Component {
               <p>ERP Application Developer I at Florida International University</p>
               <p>Bachelor of Science in Computer Science, Florida International University <Emoji symbol="🎓" /> </p>
               <p>Former Research Intern at the <a className="App-link" href="https://www.sc.edu">University of South Carolina</a></p>
-              <p>Check me out at <a className="App-link" href="https://caescir.cs.fiu.edu/staff-members/christopher-clement/">CAESCIR FIU</a>!</p>
+              {/* <p>Check me out at <a className="App-link" href="https://caescir.cs.fiu.edu/staff-members/christopher-clement/">CAESCIR FIU</a>!</p> */}
             </div>
           </div>
 
