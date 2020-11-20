@@ -4,7 +4,8 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  height: 100%;
+  min-height: 89.5vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -14,6 +15,11 @@
 }
 
 .App-link {
+  color: #61dafb;
+  text-decoration: none;
+}
+
+a:hover {
   color: #61dafb;
   text-decoration: none;
 }
@@ -28,3 +34,32 @@
   justify-content: space-around;
   font-size: calc(10px + 2vmin);
 }
+
+.App-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  height:100vh;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.IconSpacingTop {
+  margin-top: 50;
+}
+
+.IconSpacingRight {
+  margin-right: 50;
+}
+
+
+/* html, body, #root, #root>div {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+} */
