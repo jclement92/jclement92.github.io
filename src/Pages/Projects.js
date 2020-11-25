@@ -85,11 +85,12 @@ const Projects = () => {
 						<Card>
 							<Card.Img variant="top" src="https://holder.ninja/400x300.svg" />
 							<Card.Body>
-								<Card.Title>Notaker</Card.Title>
+								<Card.Title>NoteTaker</Card.Title>
 								<Card.Subtitle className="mb-2 text-muted">Android (Kotlin)</Card.Subtitle>
 								<Card.Text>
 									Take notes on the go
 								</Card.Text>
+								<Card.Link href="https://github.com/jclement92/NoteTaker">See it on GitHub</Card.Link>
 							</Card.Body>
 						</Card>
 						<Card>
